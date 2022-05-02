@@ -10,8 +10,9 @@
 <hr><ul>
 <li>python</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="https://github.com/ebwang/diagrams-as-code/blob/main/clustered_web_services.png" alt=""></p><h2>Setup</h2>
-<hr><p><img src="https://github.com/ebwang/diagrams-as-code/blob/main/web_diagram.png" alt=""></p><h2>Setup</h2>
+<hr><p><img src="https://github.com/ebwang/diagrams-as-code/blob/main/clustered_web_services.png" alt="">
+<hr><p><img src="https://github.com/ebwang/diagrams-as-code/blob/main/web_diagram.png" alt="">
+</p><h2>Setup</h2>
 <hr><p>pip3 install diagrams</p><h5>Code Examples</h5><ul>
 <li>python3 web-environment.py</li>
 </ul>
