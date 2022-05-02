@@ -14,5 +14,9 @@
 <hr><p><img src="https://github.com/ebwang/diagrams-as-code/blob/main/web_diagram.png" alt="">
 </p><h2>Setup</h2>
 <hr><p>pip3 install diagrams</p><h5>Code Examples</h5><ul>
+<li>The first screenshot is based on each ec2 pointing to desired services</li>
 <li>python3 web-environment.py</li>
+<li>If you want to draw one line hitting the cluster(group) use the middle element of list</li>
+<li>python3 web-multiple-instances.py</li>
 </ul>
+
